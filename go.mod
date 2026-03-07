@@ -1,4 +1,4 @@
-module github.com/ribnonGo/ribbonGo
+module github.com/RibbonGo/ribbonGo
 
 go 1.25
 
