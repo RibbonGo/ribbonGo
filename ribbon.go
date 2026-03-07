@@ -67,14 +67,14 @@ type Config struct {
 	// distributions.
 	FirstCoeffAlwaysOne bool
 
-	// maxSeeds is the maximum number of hash seed retries before
+	// MaxSeeds is the maximum number of hash seed retries before
 	// construction returns ErrConstructionFailed.
 	// A value of 0 uses the default (256).
 	//
 	// Paper §2: "if banding fails, retry with a new seed."
 	// With typical overhead ratios (≥ 1.05), fewer than 10 seeds are
 	// usually needed.
-	maxSeeds uint32
+	MaxSeeds uint32
 }
 
 // =============================================================================
