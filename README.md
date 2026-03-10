@@ -1,7 +1,7 @@
 # ribbonGo
-[![GoDoc](https://godoc.org/github.com/RibbonGo/ribbonGo?status.svg)](https://godoc.org/github.com/RibbonGo/ribbonGo)
+[![GoDoc](https://godoc.org/github.com/RibbonFilter/ribbonGo?status.svg)](https://godoc.org/github.com/RibbonFilter/ribbonGo)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Coverage Status](https://coveralls.io/repos/github/DhruvilK7/ribbonGo/badge.svg?branch=main)](https://coveralls.io/github/DhruvilK7/ribbonGo?branch=main)
+[![Coverage Status](https://coveralls.io/repos/github/RibbonFilter/ribbonGo/badge.svg?branch=main)](https://coveralls.io/github/RibbonFilter/ribbonGo?branch=main)
 
 A high-performance **Ribbon filter** implementation in Go — the space-efficient probabilistic data structure that is **practically smaller than Bloom and Xor filters**.
 
